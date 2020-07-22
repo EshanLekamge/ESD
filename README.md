@@ -1,2 +1,2 @@
 # ESD
-My first repository for Employee Skill Development
+My first repository for Employee Skills Development
